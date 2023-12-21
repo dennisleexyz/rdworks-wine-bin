@@ -18,7 +18,7 @@ backup=()
 options=()
 install=
 changelog=
-source=("http://en.rd-acs.com/Private/Files/add732140c983267.rar"
+source=("https://web.archive.org/web/20180109235754/en.rd-acs.com/Private/Files/add732140c983267.rar"
         "rdworks-wine-bin")
 noextract=("add732140c983267.rar")
 md5sums=('3102d7217a72c9b95e4a93898aefc173'

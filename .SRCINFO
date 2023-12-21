@@ -10,10 +10,9 @@ pkgbase = rdworks-wine-bin
 	depends = winetricks
 	optdepends = wine-mono: or take dotnet
 	noextract = add732140c983267.rar
-	source = http://en.rd-acs.com/Private/Files/add732140c983267.rar
+	source = https://web.archive.org/web/20180109235754/en.rd-acs.com/Private/Files/add732140c983267.rar
 	source = rdworks-wine-bin
 	md5sums = 3102d7217a72c9b95e4a93898aefc173
 	md5sums = 29101780536e645ec479e49ead7266aa
 
 pkgname = rdworks-wine-bin
-
